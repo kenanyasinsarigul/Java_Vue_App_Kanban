@@ -8,10 +8,10 @@
 <br>
 
 <p align="center">
-  <h2 align="center">.NetCore_Angular_Camp_Northwind</h2>
+  <h2 align="center">.Fullstack_Kanban_Java_Vue_App</h2>
   <p align="center">
-    Frontend : <a href="https://github.com/kenanyasinsarigul/Fullstack_Kanban_Java_Vue_App/tree/main/Frontend">ANGULAR</a>
-    Backend : <a href="https://github.com/kenanyasinsarigul/Fullstack_Kanban_Java_Vue_App/tree/main/Backend">.NETCORE</a>
+    Frontend : <a href="https://github.com/kenanyasinsarigul/Fullstack_Kanban_Java_Vue_App/tree/main/Frontend">VUE.JS</a>
+    Backend : <a href="https://github.com/kenanyasinsarigul/Fullstack_Kanban_Java_Vue_App/tree/main/Backend">JAVA / SPRINGBOOT</a>
     <br />
     <br />
     <a href="https://github.com/kenanyasinsarigul/Fullstack_Kanban_Java_Vue_App/issues">Report Bug</a>
