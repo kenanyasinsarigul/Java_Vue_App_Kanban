@@ -10,7 +10,7 @@
 <p align="center">
   <h2 align="center">Java_Vue_App_Kanban</h2>
   <p align="center">
-    Frontend : <a href="https://github.com/kenanyasinsarigul/Java_Vue_App_Kanban/tree/main/Frontend">VUE.JS</a>
+    Frontend : <a href="https://github.com/kenanyasinsarigul/Java_Vue_App_Kanban/tree/main/Frontend">VUE</a>
     Backend : <a href="https://github.com/kenanyasinsarigul/Java_Vue_App_Kanban/tree/main/Backend">JAVA</a>
     <br />
     <br />
