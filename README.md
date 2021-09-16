@@ -8,7 +8,7 @@
 <br>
 
 <p align="center">
-  <h2 align="center">Java_Vue_App_Kanban</h2>
+  <h2 align="center">Java_Vue_App_Kanban (07.2021)</h2>
   <p align="center">
     Frontend : <a href="https://github.com/kenanyasinsarigul/Java_Vue_App_Kanban/tree/master/frontend">VUE</a>
     Backend : <a href="https://github.com/kenanyasinsarigul/Java_Vue_App_Kanban/tree/master/backend">JAVA</a>
