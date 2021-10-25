@@ -1,22 +1,11 @@
 <template>
-  <div class="vue-template">
-    <Navi></Navi>
-
-    <!-- Main -->
-    <div class="App">
-      <div class="vertical-center">
-        <div>
-          <router-view />
-        </div>
-      </div>
+  <div id="app">
+    <div id="nav">
+      <router-link to="/">Anasayfa</router-link> |
+      <router-link to="/about">Hakkında</router-link> |
+      <router-link to="/board">Board</router-link>
     </div>
+    <router-view/>
   </div>
 </template>
-
-<script>
-import Navi from "./views/Navi.vue";
-export default {
-  name: "App",
-  components: { Navi },
-};
-</script>
+ 
